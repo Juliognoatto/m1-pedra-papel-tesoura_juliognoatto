@@ -7,12 +7,12 @@ const gameCombinations = [
   },
   {
     jogador1: "Pedra",
-    jogador2: "Tesoura",
+    jogador2: "Tesoura",          //ja foi
     expectedResult: "Jogador 1 venceu!",
   },
   {
     jogador1: "Pedra",
-    jogador2: "Papel",
+    jogador2: "Papel",    //ja foi
     expectedResult: "Jogador 2 venceu!",
   },
   // Papel
@@ -23,12 +23,12 @@ const gameCombinations = [
   },
   {
     jogador1: "Papel",
-    jogador2: "Pedra",
+    jogador2: "Pedra",    //ja foi
     expectedResult: "Jogador 1 venceu!",
   },
   {
     jogador1: "Papel",
-    jogador2: "Tesoura",
+    jogador2: "Tesoura",    // ja foi
     expectedResult: "Jogador 2 venceu!",
   },
   // Tesoura
@@ -39,12 +39,12 @@ const gameCombinations = [
   },
   {
     jogador1: "Tesoura",
-    jogador2: "Papel",
+    jogador2: "Papel",      // ja foi
     expectedResult: "Jogador 1 venceu!",
   },
   {
     jogador1: "Tesoura",
-    jogador2: "Pedra",
+    jogador2: "Pedra",    //ja foi
     expectedResult: "Jogador 2 venceu!",
   },
 ];
